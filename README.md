@@ -1,42 +1,49 @@
-##  MEUS PROJETOS EM JAVA 
-## Visão Geral do Projeto
+# ⚡ Bruno Costa | Desenvolvedor Back-end Java (Em Busca de Estágio)
 
-Este projeto consiste em **[DESCREVA O QUE O SISTEMA FAZ em uma frase. Ex: Uma API RESTful para gerenciamento de um estoque de produtos]**.
+Olá! Eu sou o Bruno Costa, estudante de desenvolvimento com **foco em Back-end Java** e arquitetura de sistemas RESTful.
 
-Foi desenvolvido com foco em **Back-end Java** utilizando o framework **Spring Boot** para demonstrar habilidades em **[Mencione a habilidade principal. Ex: modelagem de dados, desenvolvimento de APIs, e segurança com JWT]**.
+Meu objetivo imediato é iniciar uma carreira de **Desenvolvedor Nômade Digital** e estou ativamente buscando uma oportunidade de **Estágio ou Posição Júnior** que valorize proatividade, paixão por desafios técnicos e a vontade de aprender.
 
----
-
-## 🛠️ Tecnologias Utilizadas
-
-Este projeto foi construído utilizando as seguintes ferramentas e tecnologias:
-
-* **Linguagem:** Java 17+
-* **Framework:** Spring Boot 3.x
-* **Web:** RESTful API (Spring Web)
-* **Persistência de Dados:** [Nome do Banco de Dados. Ex: PostgreSQL ou MySQL]
-* **Mapeamento:** Spring Data JPA / Hibernate
-* **Build Tool:** [Ex: Maven ou Gradle]
-* **Testes:** JUnit 5 / Mockito
-* **Documentação:** [Ex: Swagger/OpenAPI (Se aplicável)]
+Meu código e meus projetos são a prova da minha dedicação.
 
 ---
 
-## 💻 Como Rodar o Projeto Localmente
+## 💻 Habilidades Técnicas
 
-Para testar esta aplicação em sua máquina, siga os passos abaixo:
+Minhas principais áreas de conhecimento e ferramentas que utilizo:
 
-### Pré-requisitos
-Certifique-se de ter instalado:
-* JDK 17 ou superior.
-* [Maven ou Gradle].
-* Uma instância do [Seu Banco de Dados] rodando (Ex: PostgreSQL).
+| Categoria | Tecnologias |
+| :---: | :--- |
+| **Linguagem Principal** | **Java** (Foco em versões modernas) |
+| **Frameworks** | **Spring Boot** (Microserviços, APIs REST), Spring Security |
+| **Banco de Dados** | SQL, Modelagem de Dados, PostgreSQL, MySQL |
+| **Versionamento** | Git, GitHub (Uso avançado para versionamento de projetos) |
+| **APIs & Testes** | Construção de APIs RESTful, Postman / Insomnia |
+| **Front-end / Outros** | JavaScript, CodeIgniter 4, TypeScript (Conhecimento em React Native) |
 
-### Configuração do Banco de Dados
-1. Crie um banco de dados vazio chamado `[Nome do seu DB. Ex: estoque_db]`.
-2. Edite o arquivo `src/main/resources/application.properties` (ou `application.yml`) e atualize as seguintes linhas com suas credenciais:
+---
 
-```properties
-spring.datasource.url=[https://download.racket-lang.org/releases/8.7/pdf-doc/db.pdf](https://download.racket-lang.org/releases/8.7/pdf-doc/db.pdf)
-spring.datasource.username=[Seu usuário do DB]
-spring.datasource.password=[Sua senha do DB]
+## ⭐ Projetos em Destaque (A Prova do Meu Código)
+
+Estes são os projetos que melhor demonstram minha capacidade de desenvolver sistemas do zero.
+
+| Projeto | Foco Principal | Tecnologias | Status / Link |
+| :---: | :--- | :--- | :---: |
+| **BancoIntra** | **Gestão Financeira Web** (Simulação de operações bancárias e gerenciamento de contas em uma aplicação web.) | CodeIgniter 4, JavaScript, PHP, MySQL | [🔗 Repositório](https://github.com/brunoc-12/BancoIntra) |
+| **CodeAdmin** | **Template de Administração** (Desenvolvimento de um painel de administração robusto para projetos web, focado em usabilidade e organização de dados.) | CodeIgniter 4, JavaScript, AdminLTE | [🔗 Repositório](https://github.com/brunoc-12/CodeAdmin) |
+| **QuizRunner** | **Aplicação Web Interativa** (Um sistema de aprendizado baseado em quizzes, demonstrando lógica de negócios e interação dinâmica com o usuário.) | JavaScript, HTML, CSS | [🔗 Repositório](https://github.com/brunoc-12/QuizRunner) |
+| **SuperMovies** | **Desenvolvimento Mobile** (Aplicativo para listar filmes, sinopse e gerenciamento de favoritos.) | React Native, TypeScript | [🔗 Repositório](https://github.com/brunoc-12/SuperMovies) |
+
+***Nota:*** *Estou ativamente migrando ou iniciando novos projetos para **Java/Spring Boot** para alinhar meu portfólio ao meu objetivo Back-end.*
+
+---
+
+## 📞 Contato e Redes Profissionais
+
+Estou disponível para conversas sobre oportunidades, desafios técnicos ou para discutir minhas aplicações Java/Spring Boot.
+
+| Plataforma | Detalhe | Link |
+| :---: | :--- | :---: |
+| **LinkedIn** | Meu perfil profissional completo. | [🔗 Bruno Costa](https://www.linkedin.com/in/bruno-costa-7780471a1/) |
+| **E-mail** | Contato direto para oportunidades. | `bkbruninho64@gmail.com` |
+| **GitHub** | Meu código-fonte completo. | [🔗 brunoc-12](https://github.com/brunoc-12) |
